@@ -280,29 +280,6 @@ Older browsers may render the layout but may not run the simulation correctly.
 
 ---
 
-## Roadmap
-
-- [ ] Export simulation data as CSV
-- [ ] Save / load car configurations as JSON
-- [ ] Add a track-geometry model (currently assumes a straight, flat line)
-- [ ] Add pitch dynamics to remove the `N = m·g` assumption in the rolling resistance
-- [ ] Overlay multiple simulation runs for A/B comparison of designs
-
----
-
-## Contributing
-
-Contributions are welcome — especially in the following areas:
-
-1. **Experimental data.** If you have measured thrust curves, bearing torque vs speed, or full race telemetry, open an issue. Real data beats fitted curves every time.
-2. **Model improvements.** Pitch dynamics, tether geometry, transient aero effects.
-3. **UI / UX.** Better accessibility, keyboard navigation, mobile layout.
-4. **Bug reports.** Please include your input values and browser version.
-
-Open an issue or submit a pull request. For substantial changes, please open an issue first to discuss the approach.
-
----
-
 ## License
 
 Released under the **MIT License**. See `LICENSE` for details.
