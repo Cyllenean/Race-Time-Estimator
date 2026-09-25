@@ -313,7 +313,7 @@ You are free to use, modify and redistribute this tool, including for commercial
 
 ## Contact
 
-**Team Cyllenean**
+**Cyllenean**
 Australian International School Hong Kong
 3A Norfolk Road, Kowloon Tong, Kowloon, Hong Kong
 
